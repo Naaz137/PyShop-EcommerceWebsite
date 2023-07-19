@@ -1,15 +1,15 @@
 # PyShop-EcommerceWebsite
 PyShop is an online Python Ecommerce website built with Django, SQLite and Bootstrap. A simple and lightweight ecommerce app easily deployable anywhere anytime with modules developed upon the inbuilt django admin.
 
-<p align="center"><img src="">Screenshots/ProductsPage.png</p>
+<p align="center"><img src="Screenshots/ProductsPage.png"></p>
 
-<p align="center"><img src="">Screenshots/AdminHomePage.png</p>
+<p align="center"><img src="Screenshots/AdminHomePage.png"></p>
 
-<p align="center"><img src="">Screenshots/AdminProdPage.png</p>
+<p align="center"><img src="Screenshots/AdminProdPage.png"></p>
 
 <p align="center"><img src="Screenshots/AddProductPage.png"></p>
 
-<p align="center"><img src="">Screenshots/ManageUsersPage.png</p>
+<p align="center"><img src="Screenshots/ManageUsersPage.png"></p>
 
 ***
 
